@@ -14,7 +14,13 @@ The purpose of this analysis was to compare the stock value of green energy busi
 Our first step in this project was to compare the value of DQ's stock across the years 2017 and 2018. In 2017 the total Daily Volume of DQ's stock was 35,796,200 with a return of 199.4%, which was the lowest stock value of all listed green energy stocks in the analysis. In 2018 the Total Daily Volume was 107,873,900 with a -62.6% return, which was still among the lowest value. Prior to refactoring the script, the original code ran in .734 seconds for 2018 and .707 for 2017. 
 
 
-2017
+
+
+
+### 2017
+![alt text](https://github.com/quorinne/Stocks-Analysis/blob/main/Resources/2017analysis.png?raw=true)
+
+
 
 
 
@@ -22,7 +28,7 @@ Our first step in this project was to compare the value of DQ's stock across the
 
 2018
 
-
+![alt text](https://github.com/quorinne/Stocks-Analysis/blob/main/Resources/2018analysis.png?raw=true)
 
 
 ### Summary
@@ -37,9 +43,11 @@ In this case the pros have outweighed the cons. While these run times of .734 an
 
 2017 Refactored
 
-
+![alt text](https://github.com/quorinne/Stocks-Analysis/blob/main/Resources/refactored%202017.png?raw=true)
 
 2018 Refactored
+
+![alt text](https://github.com/quorinne/Stocks-Analysis/blob/main/Resources/refactored2018.png?raw=true)
 
 
 The biggest issue with refactoring the code was in time consumption and the complexity. Not only did I spend a longer period on refactoring but I also spent more time correcting any mistakes I made.
